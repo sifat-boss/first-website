@@ -21,6 +21,7 @@ padding-left: 4%;
 .back-banner{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 150px;
 }
 .button{
      text-decoration: none;
@@ -30,4 +31,10 @@ padding-left: 4%;
      font-weight:bold;
      padding: 10px 40px;
      border-radius:5px ;
+}
+.back-image{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom : 10px;
+    background-position: right;
 }
